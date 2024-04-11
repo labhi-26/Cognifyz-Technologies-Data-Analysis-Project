@@ -40,3 +40,17 @@ This data provides insights into the overall satisfaction level of diners across
 #### **Price Range Category 4**: Approximately 6.14% of the restaurants are in this category.
 
 
+## Level 1 Task 4
+### Task: Online Delivery
+### Determine the percentage of restaurants that offer online delivery
+#### The analysis reveals that approximately 25.66% of the restaurants in the dataset offer online delivery services. This statistic provides valuable insight into the prevalence of online delivery options among the restaurants, highlighting the extent to which such services are available within the dataset.
+
+### Compare the average ratings of restaurants with and without online delivery
+#### **Restaurants with Online Delivery**: These establishments have an average rating percentage of 11%. This indicates that among restaurants offering online delivery, the average rating tends to be lower.
+#### **Restaurants without Online Delivery**: Conversely, restaurants that do not offer online delivery services have a higher average rating percentage of 27%. This suggests that restaurants without online delivery may receive higher ratings on average.
+
+This comparison underscores the potential correlation between online delivery services and customer satisfaction, indicating that restaurants without online delivery services may tend to receive higher ratings from diners.
+
+
+
+
