@@ -59,6 +59,9 @@ This comparison underscores the potential correlation between online delivery se
 
 #### The most common rating range among the restaurants in the dataset falls between 3.0 and 4.0, inclusive, with a total of 4388 restaurants falling within this range. This finding highlights the prevalence of ratings clustered around this range, indicating a common level of satisfaction or perception among diners towards these establishments.
 
+### Calculate the average number of votes received by restaurants
+#### The average number of votes received by restaurants in the dataset is approximately 156.91. This statistic provides insight into the level of engagement and interaction with diners, indicating the typical number of votes that restaurants receive on the platform.
+
 
 
 
