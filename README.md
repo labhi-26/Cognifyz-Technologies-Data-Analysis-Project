@@ -31,13 +31,12 @@ This data provides insights into the overall satisfaction level of diners across
 ## Level 1 Task 3
 ### Task: Price Range Distribution
 ### Create a histogram or bar chart to visualize the distribution of price ranges among the restaurants
-#### This distribution can also be expressed in percentage terms:
-#### Price range 1: 46.53%
-#### Price range 2: 32.59%
-#### Price range 3: 14.74%
-#### Price range 4: 6.14%
 ![image](https://github.com/labhi-26/Cognifyz-Technologies-Data-Analysis-Project/assets/137891712/9361a0b1-8988-4774-a8ae-f15f25a378f3)
 
-
+### Calculate the percentage of restaurants in each price range category
+#### **Price Range Category 1**: Approximately 46.53% of the restaurants fall into this category.
+#### **Price Range Category 2**: About 32.59% of the restaurants are classified under this category.
+#### **Price Range Category 3**: Around 14.74% of the restaurants belong to this category.
+#### **Price Range Category 4**: Approximately 6.14% of the restaurants are in this category.
 
 
