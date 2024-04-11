@@ -32,9 +32,9 @@ This data provides insights into the overall satisfaction level of diners across
 ### Task: Price Range Distribution
 ### Create a histogram or bar chart to visualize the distribution of price ranges among the restaurants
 #### This distribution can also be expressed in percentage terms:
-Price range 1: 46.53%
-Price range 2: 32.59%
-Price range 3: 14.74%
-Price range 4: 6.14%
+#### Price range 1: 46.53%
+#### Price range 2: 32.59%
+#### Price range 3: 14.74%
+#### Price range 4: 6.14%
 
 
