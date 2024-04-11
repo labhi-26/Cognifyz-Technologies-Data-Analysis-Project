@@ -19,8 +19,8 @@
 #### The city with the highest number of restaurants in the dataset is New Delhi, boasting a total of 5473 restaurants. This indicates New Delhi's significant presence within the dataset and underscores its importance in the culinary landscape captured by the data.
 
 ### Calculate the average rating for restaurants in each city
-#### - **City**: This column lists the name of each city included in the dataset.
-#### - **Aggregate rating**: This column represents the average rating of restaurants in each city. The ratings are typically on a scale of 1 to 5, with 5 being the highest.
+#### **City**: This column lists the name of each city included in the dataset.
+#### **Aggregate rating**: This column represents the average rating of restaurants in each city. The ratings are typically on a scale of 1 to 5, with 5 being the highest.
 For example, in Abu Dhabi, the average rating for restaurants is approximately 4.3, indicating that restaurants in Abu Dhabi tend to receive high ratings. Conversely, in cities like Albany, the average rating is lower at around 3.55.
 This data provides insights into the overall satisfaction level of diners across different cities, offering valuable information for individuals seeking dining experiences in these locations.
 
