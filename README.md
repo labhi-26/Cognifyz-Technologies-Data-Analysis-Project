@@ -15,4 +15,4 @@
 ## Level 1 Task 2
 ### Task: City Analysis
 ### Identify the city with the highest number of restaurants in the dataset
-#### The city with the highest number of restaurants in the dataset is New Delhi, boasting a total of 5473 restaurants. This indicates New #### Delhi's significant presence within the dataset and underscores its importance in the culinary landscape captured by the data.
+#### The city with the highest number of restaurants in the dataset is New Delhi, boasting a total of 5473 restaurants. This indicates New Delhi's significant presence within the dataset and underscores its importance in the culinary landscape captured by the data.
