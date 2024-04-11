@@ -75,6 +75,19 @@ This comparison underscores the potential correlation between online delivery se
 
 These findings shed light on the culinary preferences and trends within the dataset, showcasing the most common combinations of cuisines offered by restaurants.
 
+### Determine if certain cuisine combinationstend to have higher ratings
+#### The provided data showcases the average ratings for various cuisine combinations found in the dataset. Here's how to interpret it:
+
+- **Cuisines**: This column lists the combination of cuisines.
+- **Count**: This represents the frequency or count of the respective cuisine combination within the dataset.
+- **Rating**: This column displays the average rating associated with each cuisine combination.
+
+Observations:
+- Cuisine combinations such as ('Desserts', 'Ice Cream') and ('Chinese', 'Continental', 'North Indian') tend to have higher average ratings, with ratings of 2.90 and 3.03 respectively.
+- On the other hand, cuisine combinations like ('Mughlai',) and ('North Indian',) have comparatively lower average ratings, with ratings of 1.56 and 1.67 respectively.
+
+These findings suggest that certain cuisine combinations may indeed correlate with higher or lower average ratings, indicating potential preferences or perceptions among diners towards these combinations.
+
 
 
 
