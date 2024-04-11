@@ -12,6 +12,7 @@
 #### 2. **North Indian, Chinese**: Around 5.35% of the restaurants offer a combination of North Indian and Chinese cuisines.
 #### 3. **Chinese**: Approximately 3.71% of the restaurants specialize in Chinese cuisine.
 
+
 ## Level 1 Task 2
 ### Task: City Analysis
 ### Identify the city with the highest number of restaurants in the dataset
