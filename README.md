@@ -24,3 +24,17 @@
 For example, in Abu Dhabi, the average rating for restaurants is approximately 4.3, indicating that restaurants in Abu Dhabi tend to receive high ratings. Conversely, in cities like Albany, the average rating is lower at around 3.55.
 This data provides insights into the overall satisfaction level of diners across different cities, offering valuable information for individuals seeking dining experiences in these locations.
 
+### Determine the city with the highest average rating
+#### The city with the highest average rating for restaurants in the dataset is Yorkton, with an impressive aggregate rating of 4.9. This indicates that, on average, restaurants in Yorkton tend to receive exceptionally high ratings from diners, making it a noteworthy culinary destination within the dataset.
+
+
+## Level 1 Task 3
+### Task: Price Range Distribution
+### Create a histogram or bar chart to visualize the distribution of price ranges among the restaurants
+#### This distribution can also be expressed in percentage terms:
+Price range 1: 46.53%
+Price range 2: 32.59%
+Price range 3: 14.74%
+Price range 4: 6.14%
+
+
