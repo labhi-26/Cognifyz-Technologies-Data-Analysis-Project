@@ -52,5 +52,13 @@ This data provides insights into the overall satisfaction level of diners across
 This comparison underscores the potential correlation between online delivery services and customer satisfaction, indicating that restaurants without online delivery services may tend to receive higher ratings from diners.
 
 
+## Level 2 Task 1
+### Task: Restaurant Ratings
+### Analyze the distribution of aggregate ratings and determine the most common rating range
+![image](https://github.com/labhi-26/Cognifyz-Technologies-Data-Analysis-Project/assets/137891712/e86029e2-f915-4d7c-b6f7-7112eb752e79)
+
+#### The most common rating range among the restaurants in the dataset falls between 3.0 and 4.0, inclusive, with a total of 4388 restaurants falling within this range. This finding highlights the prevalence of ratings clustered around this range, indicating a common level of satisfaction or perception among diners towards these establishments.
+
+
 
 
