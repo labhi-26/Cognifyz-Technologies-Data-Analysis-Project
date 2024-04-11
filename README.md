@@ -89,5 +89,15 @@ Observations:
 These findings suggest that certain cuisine combinations may indeed correlate with higher or lower average ratings, indicating potential preferences or perceptions among diners towards these combinations.
 
 
+## Level 2 Task 3
+### Task: Geographic Analysis
+### Plot the locations of restaurants on a map using longitude and latitude coordinates
+![image](https://github.com/labhi-26/Cognifyz-Technologies-Data-Analysis-Project/assets/137891712/1981a4ea-39c8-4a24-98e1-0bf2ea9d7c01)
+
+
+
+
+
+
 
 
