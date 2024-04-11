@@ -63,5 +63,18 @@ This comparison underscores the potential correlation between online delivery se
 #### The average number of votes received by restaurants in the dataset is approximately 156.91. This statistic provides insight into the level of engagement and interaction with diners, indicating the typical number of votes that restaurants receive on the platform.
 
 
+## Level 2 Task 2
+### Task: Cuisine Combination
+### Identify the most common combinations of cuisines in the dataset
+#### The table presents the most common combinations of cuisines found in the dataset along with their respective frequencies:
+1. **(North Indian,)**: This single cuisine category tops the list with 936 occurrences.
+2. **(Chinese, North Indian)**: The combination of Chinese and North Indian cuisines follows closely with 616 occurrences.
+3. **(Mughlai, North Indian)**: Another popular combination is Mughlai and North Indian cuisines, appearing 394 times.
+4. **(Fast Food,)**: Fast Food as a standalone cuisine is also prevalent, with 354 occurrences.
+5. **(Chinese,)**: Similarly, Chinese cuisine alone also appears 354 times in the dataset.
+
+These findings shed light on the culinary preferences and trends within the dataset, showcasing the most common combinations of cuisines offered by restaurants.
+
+
 
 
