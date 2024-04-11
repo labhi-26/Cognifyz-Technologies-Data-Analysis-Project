@@ -36,5 +36,6 @@ This data provides insights into the overall satisfaction level of diners across
 #### Price range 2: 32.59%
 #### Price range 3: 14.74%
 #### Price range 4: 6.14%
+![image](https://github.com/labhi-26/Cognifyz-Technologies-Data-Analysis-Project/assets/137891712/541224e3-9b4e-4048-a5d1-5771f288df65)
 
 
