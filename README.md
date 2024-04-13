@@ -167,6 +167,24 @@ Based on this information, Cluster 2 represents a variety of restaurants located
 Based on this information, Cluster 3 represents a variety of restaurants located across different cities in Australia, offering different cuisines with varying ratings and price ranges. Let's visualize the geographical distribution of restaurants in Cluster 3:
 ![image](https://github.com/labhi-26/Cognifyz-Technologies-Data-Analysis-Project/assets/137891712/20cf1a1d-95e4-4c72-ac03-21f464453917)
 
+#### Based on the characteristics of Cluster 4, here are some observations and potential insights:
+
+1. **Cluster Size**: Cluster 4 contains 116 restaurants.
+
+2. **Location**: The restaurants in Cluster 4 are located in various cities, including New Delhi and Noida in India, and Birmingham in Europe.
+
+3. **Cuisine Variety**: The cuisine types in this cluster include Chinese, Lucknowi, North Indian, South Indian, Italian, Continental, Fast Food, Cafe, British, and Steak, among others.
+
+4. **Rating and Popularity**: Restaurants in this cluster have varying ratings, ranging from 'Not rated' to 'Very Good'. The number of votes for each restaurant varies as well.
+
+5. **Delivery Options**: Some restaurants in this cluster offer online delivery, while others do not.
+
+6. **Price Range**: The price range for restaurants in this cluster varies, with a concentration around the mid-range.
+
+Based on this information, Cluster 4 represents a variety of restaurants located across different cities in India and Europe, offering different cuisines with varying ratings and price ranges. Let's visualize the geographical distribution of restaurants in Cluster 4:
+![image](https://github.com/labhi-26/Cognifyz-Technologies-Data-Analysis-Project/assets/137891712/de587fd2-1f69-422b-8c5f-d625ec8c0e16)
+
+
 
 
 
