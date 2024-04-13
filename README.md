@@ -141,11 +141,11 @@ Based on the characteristics of Cluster 2, here are some observations and potent
 
 3. **Cuisine Variety**: The cuisine types in this cluster include Fast Food, French, Cafe, Bakery, Brazilian, and Pizza, among others.
 
-4.**Rating and Popularity**: Restaurants in this cluster have varying ratings, with some being rated as 'Good' and others as 'Average'. The number of votes for each restaurant is relatively low.
+4. **Rating and Popularity**: Restaurants in this cluster have varying ratings, with some being rated as 'Good' and others as 'Average'. The number of votes for each restaurant is relatively low.
 
 5. **Delivery Options**: Similar to the previous clusters, most restaurants in this cluster do not offer online delivery or ordering options.
 
-6.**Price Range**: The price range for restaurants in this cluster varies, but there seems to be a concentration around the mid-range.
+6. **Price Range**: The price range for restaurants in this cluster varies, but there seems to be a concentration around the mid-range.
 
 Based on this information, Cluster 2 represents a variety of restaurants located in Brasília, Brazil, offering different cuisines with varying ratings and price ranges. Let's visualize the geographical distribution of restaurants in Cluster 2:
 ![image](https://github.com/labhi-26/Cognifyz-Technologies-Data-Analysis-Project/assets/137891712/8b6d9f94-fbac-47ab-b24f-457cc7dea4b3)
