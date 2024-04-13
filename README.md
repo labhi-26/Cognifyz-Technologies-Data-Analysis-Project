@@ -133,7 +133,7 @@ Based on this information, Cluster 1 represents a variety of restaurants located
 ![image](https://github.com/labhi-26/Cognifyz-Technologies-Data-Analysis-Project/assets/137891712/1ece8dbb-0be8-40fd-9a85-9c1c8a8cfbc4)
 
 
-Based on the characteristics of Cluster 2, here are some observations and potential insights:
+#### Based on the characteristics of Cluster 2, here are some observations and potential insights:
 
 1. **Cluster Size**: Cluster 2 contains 617 restaurants.
 
@@ -149,6 +149,24 @@ Based on the characteristics of Cluster 2, here are some observations and potent
 
 Based on this information, Cluster 2 represents a variety of restaurants located in Brasília, Brazil, offering different cuisines with varying ratings and price ranges. Let's visualize the geographical distribution of restaurants in Cluster 2:
 ![image](https://github.com/labhi-26/Cognifyz-Technologies-Data-Analysis-Project/assets/137891712/8b6d9f94-fbac-47ab-b24f-457cc7dea4b3)
+
+#### Based on the characteristics of Cluster 3, here are some observations and potential insights:
+
+1. **Cluster Size**: Cluster 3 contains 64 restaurants.
+
+2. **Location**: The restaurants in Cluster 3 are located in various cities across Australia, including Armidale, Balingup, Beechworth, Dicky Beach, and East Ballina.
+
+3. **Cuisine Variety**: The cuisine types in this cluster include Bar Food, Steak, Modern Australian, Pizza, Cafe, and Coffee and Tea, among others.
+
+4. **Rating and Popularity**: Restaurants in this cluster have varying ratings, with some being rated as 'Excellent', 'Very Good', or 'Good', while others are rated as 'Average'. The number of votes for each restaurant varies.
+
+5. **Delivery Options**: Similar to the previous clusters, most restaurants in this cluster do not offer online delivery or ordering options.
+
+6. **Price Range**: The price range for restaurants in this cluster varies, with a concentration around the mid-range.
+
+Based on this information, Cluster 3 represents a variety of restaurants located across different cities in Australia, offering different cuisines with varying ratings and price ranges. Let's visualize the geographical distribution of restaurants in Cluster 3:
+![image](https://github.com/labhi-26/Cognifyz-Technologies-Data-Analysis-Project/assets/137891712/20cf1a1d-95e4-4c72-ac03-21f464453917)
+
 
 
 
