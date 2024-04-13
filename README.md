@@ -117,17 +117,17 @@ Based on this information, Cluster 0 appears to represent a diverse range of res
 
 #### Based on the characteristics of Cluster 1, here are some observations and potential insights:
 
-Cluster Size: Cluster 1 contains 438 restaurants, making it smaller than Cluster 0 but still significant.
+1. **Cluster Size**: Cluster 1 contains 438 restaurants, making it smaller than Cluster 0 but still significant.
 
-Location: The restaurants in Cluster 1 are located in Albany, Georgia, USA.
+2. **Location**: The restaurants in Cluster 1 are located in Albany, Georgia, USA.
 
-Cuisine Variety: The cuisine types in this cluster include BBQ, American, Mexican, and Coffee and Tea, among others.
+3. **Cuisine Variety**: The cuisine types in this cluster include BBQ, American, Mexican, and Coffee and Tea, among others.
 
-Rating and Popularity: Restaurants in this cluster have average ratings, mostly falling in the 'Average' category. The number of votes for each restaurant varies.
+4. **Rating and Popularity**: Restaurants in this cluster have average ratings, mostly falling in the 'Average' category. The number of votes for each restaurant varies.
 
-Delivery Options: Similar to Cluster 0, most restaurants in this cluster do not offer online delivery or ordering options.
+5. **Delivery Options**: Similar to Cluster 0, most restaurants in this cluster do not offer online delivery or ordering options.
 
-Price Range: The price range for restaurants in this cluster varies, but there seems to be a concentration around the lower end.
+6. **Price Range**: The price range for restaurants in this cluster varies, but there seems to be a concentration around the lower end.
 
 Based on this information, Cluster 1 represents a variety of restaurants located in Albany, Georgia, USA, offering different cuisines with average ratings and mostly catering to local dining preferences. Let's visualize the geographical distribution of restaurants in Cluster 1:
 ![image](https://github.com/labhi-26/Cognifyz-Technologies-Data-Analysis-Project/assets/137891712/1ece8dbb-0be8-40fd-9a85-9c1c8a8cfbc4)
