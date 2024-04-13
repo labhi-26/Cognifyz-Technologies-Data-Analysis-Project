@@ -94,6 +94,28 @@ These findings suggest that certain cuisine combinations may indeed correlate wi
 ### Plot the locations of restaurants on a map using longitude and latitude coordinates
 ![image](https://github.com/labhi-26/Cognifyz-Technologies-Data-Analysis-Project/assets/137891712/1981a4ea-39c8-4a24-98e1-0bf2ea9d7c01)
 
+### Identify any patterns or clusters of restaurants in specific areas
+![image](https://github.com/labhi-26/Cognifyz-Technologies-Data-Analysis-Project/assets/137891712/5ccc2ef7-ac31-4868-b466-d703d74d1ecf)
+
+#### Based on the cluster counts and the characteristics of Cluster 0, it seems to be the largest cluster with 8316 restaurants. Here are some observations and potential insights:
+
+1. **Cluster Size**: Cluster 0 dominates the dataset, containing a significant portion of the restaurants.
+
+2. **Location**: The restaurants in Cluster 0 are predominantly located in Makati City and Mandaluyong City in the Philippines.
+
+3. **Cuisine Variety**: The cuisine types vary widely within this cluster, ranging from French and Japanese to Seafood and Filipino.
+
+4. **Rating and Popularity**: Restaurants in this cluster generally have high ratings, as indicated by the 'Rating text' column, with many being rated as 'Excellent' or 'Very Good'. They also have a considerable number of votes.
+
+5. **Delivery Options**: Most restaurants in this cluster do not offer online delivery or ordering options.
+
+6. **Price Range**: The price range for restaurants in this cluster varies, but there seems to be a concentration around the mid to high range.
+
+Based on this information, Cluster 0 appears to represent a diverse range of restaurants located in urban areas of Makati City and Mandaluyong City in the Philippines, offering a variety of cuisines with generally high ratings and moderate to high price ranges. This cluster may cater to both local residents and tourists visiting these urban centers.
+
+![image](https://github.com/labhi-26/Cognifyz-Technologies-Data-Analysis-Project/assets/137891712/c51905e4-c55c-465d-8f07-baa3ee825727)
+
+
 
 
 
