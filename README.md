@@ -189,7 +189,7 @@ Based on this information, Cluster 4 represents a variety of restaurants located
 ## Level 2
 ### Task 4
 ### Task: Restaurant Chains
-#### Identify if there are any restaurant chains present in the dataset
+### Identify if there are any restaurant chains present in the dataset
 
 
 
