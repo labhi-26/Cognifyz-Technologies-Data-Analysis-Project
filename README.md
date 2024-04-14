@@ -130,6 +130,7 @@ Based on this information, Cluster 0 appears to represent a diverse range of res
 6. **Price Range**: The price range for restaurants in this cluster varies, but there seems to be a concentration around the lower end.
 
 Based on this information, Cluster 1 represents a variety of restaurants located in Albany, Georgia, USA, offering different cuisines with average ratings and mostly catering to local dining preferences. Let's visualize the geographical distribution of restaurants in Cluster 1:
+
 ![image](https://github.com/labhi-26/Cognifyz-Technologies-Data-Analysis-Project/assets/137891712/1ece8dbb-0be8-40fd-9a85-9c1c8a8cfbc4)
 
 
