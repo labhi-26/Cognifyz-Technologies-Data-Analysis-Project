@@ -182,6 +182,7 @@ Based on this information, Cluster 3 represents a variety of restaurants located
 6. **Price Range**: The price range for restaurants in this cluster varies, with a concentration around the mid-range.
 
 Based on this information, Cluster 4 represents a variety of restaurants located across different cities in India and Europe, offering different cuisines with varying ratings and price ranges. Let's visualize the geographical distribution of restaurants in Cluster 4:
+
 ![image](https://github.com/labhi-26/Cognifyz-Technologies-Data-Analysis-Project/assets/137891712/de587fd2-1f69-422b-8c5f-d625ec8c0e16)
 
 
